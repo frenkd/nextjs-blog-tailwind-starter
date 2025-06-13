@@ -1,16 +1,16 @@
 ---
 templateKey: podcasts
-title: >
+title: |
   Sample Podcast 2
-date: 2024-09-25T15:04:10.000Z
 featured: true
-description: >
-  A brief description of the sample podcast.
 link: https://thefutur.com/podcast/
+image: /media/feferog-2.png
 tags:
   - example
   - placeholder
-image: /media/podcast__placeholder-post-1200x1200.png
+date: 2024-09-25T15:04:10.000Z
+description: |
+  A brief description of the sample podcast.
 ---
 
 ## Describe Your Podcast
